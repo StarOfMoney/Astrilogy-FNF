@@ -1,9 +1,9 @@
 {
-	"name": "Name",
-	"description": "Description",
-	"restart":false,
-	"runsGlobally": false,
-	"color": [170, 0, 255],
-	"discordRPC": "863222024192262205",
-	"iconFramerate": 10
+    "name": "Astrilogy",
+    "description": "We funkin' in this era [kms]",
+    "restart": false,
+    "runsGlobally": false,
+    "color": [170, 0, 255],
+    "discordRPC": "863222024192262205",
+    "iconFramerate": 10
 }
